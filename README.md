@@ -1,6 +1,6 @@
 # repozitar
 
-Ahoj svet
+Ahoj svet, Kamarat!
 
 \## O mne
 

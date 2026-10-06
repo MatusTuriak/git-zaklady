@@ -1,6 +1,6 @@
 # repozitar
 
-Ahoj svet, Matus!
+Ahoj svet, Matus a Kamarat!
 
 \## O mne
 
